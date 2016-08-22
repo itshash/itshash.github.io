@@ -1,0 +1,26 @@
+{
+  "name": "Pedro Hash Bio Page",
+  "homepage": "https://github.com/itshash/itshash.github.io",
+  "authors": [
+    "'Pedro <hshdev@gmail.com>"
+  ],
+  "description": "my central page",
+  "main": "index.html",
+  "keywords": [
+    "hash",
+    "pedro",
+    "web",
+    "portfolio",
+    "bio",
+    "cv"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
